@@ -1,0 +1,19 @@
+{
+  "name": "te3raf7ad_app",
+  "version": "1.0.0",
+  "description": "This is an app for you to search for someone to do a specific task for you (plumbings, chore, home tools, other)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Know",
+    "Someone;Need",
+    "Help;Freelancers"
+  ],
+  "author": "ABdelrady Tantawy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
